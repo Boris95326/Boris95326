@@ -28,8 +28,6 @@
 <img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=oxBinaryBrain&theme=dark'>
 </p>
 
-<img align='center' src='https://streak-stats.demolab.com/?user=oxBinaryBrain&theme=dark'>
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=oxBinaryBrain&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 
