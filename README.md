@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oxBinaryBrain&label=Profile%20views&color=0e75b6&style=flat" alt="oxBinaryBrain" /> </p>
 
+<img align="right" alt="Coding" width="400" src="https://github.com/sivamsinghsh/Portfolio/blob/main/assets/img/professional%20skills.gif?raw=true&rid=giphy.gif&ct=g">
+
 - 🔭 I’m currently working on **Advancing my Skills with Languages and tools**
 
 - 🌱 I’m currently learning **Mobile Development**
