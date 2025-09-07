@@ -1,16 +1,12 @@
 <div>
 <div align="center">
-	<h2>Hello. I'm William! 🦇</h2>
-	<p><code>31y old, Senior Software Engineer </code><br>Working everyday to be better</p>
+	<h2>Hi, there! I’m Boris Yamada 🦇</h2>
 	</div>
 <h1>👨🏻‍💻 &nbsp;About Me </h1>
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Bussiness and Computer Security Now.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I play tennis and swim as hobbies.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at turtle94720@gmail.com! I'll try to respond as soon as I can.
+I'm a Senior Full Stack Developer with over 9 years of experience designing and building scalable, secure, and high-performance applications. Skilled in modern frameworks like React.js, Next.js, Vue.js, and Node.js, I also bring strong backend expertise with PostgreSQL, MySQL, and MongoDB, along with DevOps proficiency in Docker, Kubernetes, and CI/CD pipelines.
+
+I have led cross-functional teams, mentored developers, and successfully delivered projects from concept to production—most notably at EcoVadis, where I improved application performance by 30% and scalability by 40%. Passionate about clean architecture, performance optimization, and user-focused design, I thrive in dynamic environments where innovation and efficiency drive success.
 	<p align="center">
  <h1> My Skills <h1/>
 		<a href="https://skillicons.dev">
