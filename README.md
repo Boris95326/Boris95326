@@ -4,7 +4,7 @@
 	</div>
 <h1>👨🏻‍💻 &nbsp;About Me </h1>
 
-I'm a Senior Full Stack Developer with over 9 years of experience designing and building scalable, secure, and high-performance applications. Skilled in modern frameworks like React.js, Next.js, Vue.js, and Node.js, I also bring strong backend expertise with PostgreSQL, MySQL, and MongoDB, along with DevOps proficiency in Docker, Kubernetes, and CI/CD pipelines.
+I'm a Senior Full Stack Developer with over 8 years of experience designing and building scalable, secure, and high-performance applications. Skilled in modern frameworks like React.js, Next.js, Vue.js, and Node.js, I also bring strong backend expertise with PostgreSQL, MySQL, and MongoDB, along with DevOps proficiency in Docker, Kubernetes, and CI/CD pipelines.
 
 I have led cross-functional teams, mentored developers, and successfully delivered projects from concept to production—most notably at EcoVadis, where I improved application performance by 30% and scalability by 40%. Passionate about clean architecture, performance optimization, and user-focused design, I thrive in dynamic environments where innovation and efficiency drive success.
 	<p align="center">
