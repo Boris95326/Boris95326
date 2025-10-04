@@ -1,8 +1,8 @@
 <div>
 <div align="center">
-	<h2>Hi, there! I’m Boris Yamada 🦇</h2>
+	<h2>Hi, there! I’m Boris Yamada </h2>
 	</div>
-<h1>👨🏻‍💻 &nbsp;About Me </h1>
+<h1>👨&nbsp;About Me </h1>
 
 I'm a Senior Full Stack Developer with over 8 years of experience designing and building scalable, secure, and high-performance applications. Skilled in modern frameworks like React.js, Next.js, Vue.js, and Node.js, I also bring strong backend expertise with PostgreSQL, MySQL, and MongoDB, along with DevOps proficiency in Docker, Kubernetes, and CI/CD pipelines.
 
